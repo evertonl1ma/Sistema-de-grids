@@ -7,3 +7,12 @@ Assim:
 
     <link rel="stylesheet" href="grid.css">
     
+## Exemplo de uso
+
+Para um exemplo simples
+
+    <div class="container">
+      <div class="column-6">...</div>
+      <div class="column-6">...</div>
+    </div>
+    
