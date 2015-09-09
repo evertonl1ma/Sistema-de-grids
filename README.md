@@ -7,7 +7,7 @@ Assim:
 
     <link rel="stylesheet" href="grid.css">
     
-## Exemplo de uso
+## Exemplos de uso
 
 Para um exemplo simples com 12 colunas
 
